@@ -10,8 +10,10 @@
             //UC2_DailyWage.DailyWage();
             //Console.WriteLine("UC3: adding part time employee and wage");
             //UC3_PartTime.PartTime();
-            Console.WriteLine("UC4: Solving using Switch Case Statement");
-            UC4_SwitchCase.SwitchCase();
+            //Console.WriteLine("UC4: Solving using Switch Case Statement");
+            //UC4_SwitchCase.SwitchCase();
+            Console.WriteLine("UC5: Calculating wages for Month ");
+            UC5_MonthlyWage.MonthlyWage();
         }
     }
 }
