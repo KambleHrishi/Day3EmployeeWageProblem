@@ -4,7 +4,8 @@
     {
         public static void Main(string[]args)
         {
-            Console.WriteLine("Welcome to Employee Wage Computation Program");
+            Console.WriteLine("UC1 checking if employee is present or absent");
+            UC1_Attendance.Attendance();
         }
     }
 }
