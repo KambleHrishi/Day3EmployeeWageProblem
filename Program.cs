@@ -12,8 +12,10 @@
             //UC3_PartTime.PartTime();
             //Console.WriteLine("UC4: Solving using Switch Case Statement");
             //UC4_SwitchCase.SwitchCase();
-            Console.WriteLine("UC5: Calculating wages for Month ");
-            UC5_MonthlyWage.MonthlyWage();
+            //Console.WriteLine("UC5: Calculating wages for Month ");
+            //UC5_MonthlyWage.MonthlyWage();
+            Console.WriteLine("UC6: Calculate wages till working hours reaches 100hrs or days reaches 20 days");
+            UC6_TillConditionsReached.TillConditionsReached();
         }
     }
 }
